@@ -1,3 +1,7 @@
+# Daily Diet API
+
+# Functions
+
 - [x] Deve ser possível criar um usuário
 - [x] Deve ser possível identificar o usuário entre as requisições
 - [x] Deve ser possível registrar uma refeição feita, com as seguintes informações:
